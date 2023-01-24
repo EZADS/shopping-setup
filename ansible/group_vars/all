@@ -19,4 +19,4 @@ additional:
 
 env:
   variables:
-    - ORGNAME=Lagairogo1
+    - ORGNAME=Lagairogo
